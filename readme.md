@@ -9,7 +9,7 @@
 <p align="center"> Clique na imagem abaixo para acessar o site 👇</p>
 
 <p align="center">
-    <a href="https://ebac-projeto-01-vert.vercel.app/#">
+    <a href="https://ebac-projeto-01-vert.vercel.app/#" target="_blank">
         <img src="images/site-completo.png" alt="Foto do site Game Shop"> </img>
     </a>
 </p>
